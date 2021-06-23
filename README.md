@@ -15,3 +15,4 @@ Here are codes for several types of linked list problems.
 11. remove duplicates from an unsorted linked list
 12. search an element in a Linked List
 13. singly linked list is palindrome or not
+14. swap kth node from beginning with kth node from end in a lnked list
